@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋🏻 Olá! I'm Rodrigo Trindade 
 
-<!--
-**rotrindade/rotrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 I'm an iOS Developer 
+- ⚡ Fun facts: My biggest passions are robotics, programming, and geek things (tv series, video-games, collectible characters…) My specialty is UX/UI Design but I really enjoy programminf, and all the other aspects of bringing an idea to life. 
 
-Here are some ideas to get you started:
+### 🌎 You can Find me here 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 [Blog](https://rodrigotrindade.dev/blog) in coming!
+- 🎬 [YouTube Channel](https://www.youtube.com/channel/UCjX7xDE0hL0HdwUcL1eehUw)
+- 💻 Projects can be found here
+- 🐦 [Twitter](https://twitter.com/rdrtrindade)
+- 💼 [LinkedIn](https://www.linkedin.com/in/txaiwieser)
+- 📫 [Email](rodrigotrindade.dev@gmail.com)
