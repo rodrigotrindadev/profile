@@ -9,5 +9,5 @@
 - 🎬 [YouTube Channel](https://www.youtube.com/channel/UCjX7xDE0hL0HdwUcL1eehUw)
 - 💻 Projects can be found here
 - 🐦 [Twitter](https://twitter.com/rtcoding)
-- 💼 [LinkedIn](https://www.linkedin.com/in/txaiwieser)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigotrindade)
 - 📫 [Email](rodrigotrindade.dev@gmail.com)
