@@ -10,4 +10,4 @@
 - 💻 Projects can be found here
 - 🐦 [Twitter](https://twitter.com/rodrtrindade)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigotrindade)
-- 📫 [Email](rodrigotrindade.dev@gmail.com)
+- 📫 [Email](mailto:rodrigotrindade.dev@gmail.com)
