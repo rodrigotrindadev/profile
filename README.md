@@ -1,7 +1,7 @@
 ### 👋🏻 Hello! I'm Rodrigo Trindade 
 
-- 📱 I'm an iOS Developer & UX/UI Designer
-- ⚡ Fun facts: My biggest passions are robotics, programming, and geek things (tv series, video-games, collectible characters…) My specialty is UX/UI Design but I really enjoy programming, and all the other aspects of bringing an idea to life. 
+- 📱 I'm an iOS Developer & UI Designer
+- ⚡ Fun facts: My biggest passions are robotics, programming, and geek things (tv series, video-games, collectible characters…) My specialty is UI Design but I really enjoy programming, and all the other aspects of bringing an idea to life. 
 
 ### 🌎 You can Find me here 
 
