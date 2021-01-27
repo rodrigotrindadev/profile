@@ -8,6 +8,6 @@
 - 📚 [Blog](https://rodrigotrindade.dev/blog) in coming!
 - 🎬 [YouTube Channel](https://www.youtube.com/channel/UCjX7xDE0hL0HdwUcL1eehUw)
 - 💻 Projects can be found here
-- 🐦 [Twitter](https://twitter.com/rtcoding)
+- 🐦 [Twitter](https://twitter.com/rodrtrindade)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigotrindade)
 - 📫 [Email](rodrigotrindade.dev@gmail.com)
